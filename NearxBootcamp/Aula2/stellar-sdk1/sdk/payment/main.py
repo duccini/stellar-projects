@@ -7,7 +7,6 @@ from wallet import create_alice_wallet, create_bob_wallet
 from transfer import transfer_from
 
 
-
 print("✅ # Start Payment from Alice to Bob with amount 100XML")
 
 

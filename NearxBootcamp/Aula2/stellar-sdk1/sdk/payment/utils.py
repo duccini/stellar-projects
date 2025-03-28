@@ -1,6 +1,8 @@
 from stellar_sdk.exceptions import NotFoundError
 from requests import get, RequestException
 
+#url = "https://friendbot.stellar.org"
+
 
 def soft_create_account(public_key):
     url = "http://localhost:8000/friendbot"
